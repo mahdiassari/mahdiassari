@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Mahdi Assari</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Mahdi+Assari...;A+Front-end+developer;&center=true&size=30&color=821FF7&background=FFFFFF00">
+  </a>
+</h1>
 <h1 align="center">FROM IDEA TO LAUNCH , I'VE GOT YOUR BACK!🧠</h1>
 
 <h3 align="center"> Versatile Front-end Developer with 3+ year of experience developing websites with
